@@ -1,6 +1,5 @@
-# ENGG1100-Team-Project
-Hello! Welcome to my Github Page
-This account aims to showcase all personal and academic projects accumulated over my time at university starting Feb 2024. To see my past endeavors, please see below for past and current projects!
+# ENGG1100 Team Project Sem 1 2024
+Engineering Group Project at the University of Queensland
+As part of a seven-member team, our objective was to design, prototype, and construct a flood-resistant housing system. Our initial power and drive concept involved using electric winches to control the elevation of a square-based structure via four pulley points located at each corner. I and a team member were responsible for the design, programming, and fabrication of the electrical winch control system, which I successfully developed using a joystick-based serial interface and motor control. Throughout the testing phase, our team collaborated closely to evaluate system performance and resource efficiency. Through iterative testing and joint analysis, we collectively determined that a mechanically loaded spring system provided a more reliable and resource-efficient solution for maintaining tension at all corners of the structure, leading us to adopt this approach in the final design. After testing multiple renditions of mechanical designs we settled on a 3D printed design. Overall scored 7/7.
 
-NOTE: Presently in the process of creating/updating this page. Current projects are located on my LinkedIn profile at https://www.linkedin.com/in/calvinhanasy/
-Projects on this page coming soon!
+Overall, this project was an invaluable first hands-on engineering experience, offering a strong foundation in collaborative problem-solving, rapid prototyping, and adapting designs in response to real-world constraints.
